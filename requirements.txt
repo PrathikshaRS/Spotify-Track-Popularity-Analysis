@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1      # read the .xlsx source file
+scipy>=1.10        # Spearman rank correlations
+matplotlib>=3.7
+seaborn>=0.12
+jupyter>=1.0       # run the EDA notebook
